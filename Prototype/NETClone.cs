@@ -1,7 +1,7 @@
-﻿namespace Patterns.Prototype
-{
-    using System;
-    
+﻿using System;
+
+namespace Patterns.Prototype
+{    
     public class NETClone : ICloneable
     {
         public Color color;

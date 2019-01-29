@@ -1,7 +1,7 @@
+using System;
+
 namespace Patterns.Bridge
 {
-	using System;
-
 	abstract class Controller
 	{
 		public void Draw()

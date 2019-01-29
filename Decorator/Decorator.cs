@@ -1,7 +1,7 @@
+using System;
+
 namespace Patterns.Decorator
 {
-	using System;
-
 	public interface IMedia
 	{
 		void Load();

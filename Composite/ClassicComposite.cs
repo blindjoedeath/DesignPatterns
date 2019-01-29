@@ -1,8 +1,8 @@
+using System;
+using System.Collections.Generic;
+
 namespace Patterns.Composite
 {
-	using System;
-	using System.Collections.Generic;
-
 	public abstract class OperationSystem
 	{
 		public abstract void Work();

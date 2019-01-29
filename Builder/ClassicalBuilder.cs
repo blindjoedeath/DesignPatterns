@@ -1,8 +1,8 @@
-﻿namespace Patterns.Builder
-{
-    using System;
-    using System.Collections.Generic;
-    
+﻿using System;
+using System.Collections.Generic;   
+
+namespace Patterns.Builder
+{   
     public struct Vector3
     {
         public int X { get; set; }

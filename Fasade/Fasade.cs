@@ -1,7 +1,7 @@
-﻿namespace SandBox.Patterns.Fasade
-{
-    using System;
-    
+﻿using System;
+
+namespace SandBox.Patterns.Fasade
+{    
     public class DatabaseFasade: IDisposable
     {
         private DataBase _dataBase;

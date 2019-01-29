@@ -1,7 +1,7 @@
-﻿namespace Patterns.Adapter
-{
-    using System;
+﻿using System;
     
+namespace Patterns.Adapter
+{
     public interface IUserInterface
     {
         void OpenWindow();

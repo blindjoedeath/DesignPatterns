@@ -1,8 +1,8 @@
+using System;
+using System.Collections.Generic;	
+
 namespace Patterns.Composite
 {
-	using System;
-	using System.Collections.Generic;
-
 	public abstract class PackageBase
 	{
 		public List<PackageBase> _dependencies = new List<PackageBase>();
