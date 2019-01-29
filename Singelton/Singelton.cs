@@ -1,4 +1,5 @@
 ﻿using System;
+
 namespace Patterns.Singelton
 {
     public class Application

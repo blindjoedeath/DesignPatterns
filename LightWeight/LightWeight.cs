@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace SandBox.Patterns.LightWeight
+namespace Patterns.LightWeight
 {
 
     public class Texture

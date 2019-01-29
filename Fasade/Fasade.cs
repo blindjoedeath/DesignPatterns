@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SandBox.Patterns.Fasade
+namespace Patterns.Fasade
 {    
     public class DatabaseFasade: IDisposable
     {
