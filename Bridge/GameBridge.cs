@@ -79,7 +79,7 @@ namespace Patterns.Bridge
 		}
 	}
 
-	public abstract class Mob:
+	public abstract class Mob
 	{
 		protected IMobType _mobType;
 
