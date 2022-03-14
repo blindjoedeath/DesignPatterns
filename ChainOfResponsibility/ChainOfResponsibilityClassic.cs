@@ -106,4 +106,20 @@ namespace Patterns.ChainOfResponsibilityClassic
             return warriorChecker.CheckIfError(data);
         }
     }
+
+    public class ShowCase 
+    {
+        public void Run()
+        {
+            var quest = new HardQuest();
+            var userData = new UserData()
+            {
+                level = 1,
+                intelect = 41,
+                power = 12,
+                mana = 32
+            };
+            Console.WriteLine(quest.MessageOnRequest(userData));
+        }
+    }
 }
