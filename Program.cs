@@ -1,3 +1,3 @@
 using System;
 
-(new Patterns.ChainOfResponsibilityAnother.ShowCase()).Run();
+(new Patterns.Command.ShowCase()).Run();
