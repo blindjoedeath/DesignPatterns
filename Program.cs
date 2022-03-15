@@ -1,3 +1,3 @@
 using System;
 
-(new Patterns.Command.ShowCase()).Run();
+(new Patterns.Iterator.ShowCase()).Run();
